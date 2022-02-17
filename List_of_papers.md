@@ -14,15 +14,15 @@
 | 12   | [Survey on audiovisual emotion recognition](https://proxy.library.spbu.ru:2158/core/journals/apsipa-transactions-on-signal-and-information-processing/article/survey-on-audiovisual-emotion-recognition-databases-features-and-data-fusion-strategies/5BA206CFFEC3BAE321842B8EB820E179) | ![image-20220205164533117](List_of_papers.assets/image-20220205164533117.png) |                                                              | ![image-20220205164646804](List_of_papers.assets/image-20220205164646804.png) | This paper provides a survey on the latest research and challenges focusing on the theoretical background, databases, features, and data fusion strategies in audiovisual emotion recognition. |
 | 13   | [A Survey of Affect Recognition Methods](https://proxy.library.spbu.ru:2281/abstract/document/4468714) | ![image-20220205164611515](List_of_papers.assets/image-20220205164611515.png) |                                                              | ![image-20220205164722430](List_of_papers.assets/image-20220205164722430.png) | This paper focused on surveying and discussing these novel approaches to the machine analysis of human affect and on summarizing the issues that have not received sufficient attention but are crucial for advancing the machine interpretation of human behavior in naturalistic contexts. |
 | 14 | [Information Fusion in Attention Networks Using Adaptive and Multi-Level Factorized Bilinear Pooling for Audio-Visual Emotion Recognition](https://proxy.library.spbu.ru:2281/document/9484766) |  | |  |  |
-| 15 |  |  | |  |  |
-| 16 |  |  | |  |  |
-| 17 |  |  | |  |  |
-| 18 |  |  | |  |  |
-| 19 |  |  | |  |  |
-| 20 |  |  | |  |  |
-| 21 |  |  | |  |  |
-| 22 |  |  | |  |  |
-| 23 |  |  | |  |  |
+| 15 | [Audiovisual Classification of Group Emotion Valence Using Activity Recognition Networks](https://proxy.library.spbu.ru:2281/document/9334943) |  | |  |  |
+| 16 | [Multi-model Emotion Expression Recognition for Lip Synchronization](https://proxy.library.spbu.ru:2281/document/9253118) |  | |  |  |
+| 17 | [Video-Audio Emotion Recognition Based on Feature Fusion Deep Learning Method](https://proxy.library.spbu.ru:2281/document/9531812) |  | |  |  |
+| 18 | [Real-time Emotion Recognition for Sales](https://proxy.library.spbu.ru:2281/document/9394292) |  | |  |  |
+| 19 | [Facial Expression Recognition in Videos: An CNN-LSTM based Model for Video Classification](https://proxy.library.spbu.ru:2281/document/9051332) |  | |  |  |
+| 20 | [Audio-Visual Emotion Recognition Using a Hybrid Deep Convolutional Neural Network based on Census Transform](https://proxy.library.spbu.ru:2281/document/8914193) |  | |  |  |
+| 21 | [Audio-Video Based Emotion Recognition Using Minimum Cost Flow Algorithm](https://proxy.library.spbu.ru:2281/document/9022316) |  | |  |  |
+| 22 | [Video-Based Emotion Recognition using Face Frontalization and Deep Spatiotemporal Feature](https://proxy.library.spbu.ru:2281/document/8470384) |  | |  |  |
+| 23 | [Speech Emotion Recognition Adapted to Multimodal Semantic Repositories](https://proxy.library.spbu.ru:2281/document/8501881) |  | |  |  |
 | 24 |  |  | |  |  |
 | 25 |  |  | |  |  |
 | 26 |  |  | |  |  |
