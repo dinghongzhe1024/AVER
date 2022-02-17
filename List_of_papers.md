@@ -13,4 +13,21 @@
 | 11   | [Multiple Spatio-temporal Feature Learning for Video-based Emotion Recognition in the Wild](https://proxy.library.spbu.ru:2356/doi/abs/10.1145/3242969.3264992) |                                                              | BLSTM           CNN                                          | multiple spatio-temporal feature fusion (MSFF) framework               3-Dimensional Convolutional Neural Networks (3D CNN) | Extensive experiments show that the overall accuracy of our proposed MSFF is 60.64% |
 | 12   | [Survey on audiovisual emotion recognition](https://proxy.library.spbu.ru:2158/core/journals/apsipa-transactions-on-signal-and-information-processing/article/survey-on-audiovisual-emotion-recognition-databases-features-and-data-fusion-strategies/5BA206CFFEC3BAE321842B8EB820E179) | ![image-20220205164533117](List_of_papers.assets/image-20220205164533117.png) |                                                              | ![image-20220205164646804](List_of_papers.assets/image-20220205164646804.png) | This paper provides a survey on the latest research and challenges focusing on the theoretical background, databases, features, and data fusion strategies in audiovisual emotion recognition. |
 | 13   | [A Survey of Affect Recognition Methods](https://proxy.library.spbu.ru:2281/abstract/document/4468714) | ![image-20220205164611515](List_of_papers.assets/image-20220205164611515.png) |                                                              | ![image-20220205164722430](List_of_papers.assets/image-20220205164722430.png) | This paper focused on surveying and discussing these novel approaches to the machine analysis of human affect and on summarizing the issues that have not received sufficient attention but are crucial for advancing the machine interpretation of human behavior in naturalistic contexts. |
+| 14 | [Information Fusion in Attention Networks Using Adaptive and Multi-Level Factorized Bilinear Pooling for Audio-Visual Emotion Recognition](https://proxy.library.spbu.ru:2281/document/9484766) |  | |  |  |
+| 15 |  |  | |  |  |
+| 16 |  |  | |  |  |
+| 17 |  |  | |  |  |
+| 18 |  |  | |  |  |
+| 19 |  |  | |  |  |
+| 20 |  |  | |  |  |
+| 21 |  |  | |  |  |
+| 22 |  |  | |  |  |
+| 23 |  |  | |  |  |
+| 24 |  |  | |  |  |
+| 25 |  |  | |  |  |
+| 26 |  |  | |  |  |
+| 27 |  |  | |  |  |
+| 28 |  |  | |  |  |
+| 29 |  |  | |  |  |
+| 30 |  |  | |  |  |
 
