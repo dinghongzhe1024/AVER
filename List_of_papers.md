@@ -23,7 +23,7 @@
 | 21 | [Audio-Video Based Emotion Recognition Using Minimum Cost Flow Algorithm](https://proxy.library.spbu.ru:2281/document/9022316) |  | |  |  |
 | 22 | [Video-Based Emotion Recognition using Face Frontalization and Deep Spatiotemporal Feature](https://proxy.library.spbu.ru:2281/document/8470384) |  | |  |  |
 | 23 | [Speech Emotion Recognition Adapted to Multimodal Semantic Repositories](https://proxy.library.spbu.ru:2281/document/8501881) |  | |  |  |
-| 24 |  |  | |  |  |
+| 24 | [Leveraging recent advances in deep learning for audio-Visual emotion recognition](https://proxy.library.spbu.ru:2068/science/article/pii/S0167865521000878) |  | |  |  |
 | 25 |  |  | |  |  |
 | 26 |  |  | |  |  |
 | 27 |  |  | |  |  |
