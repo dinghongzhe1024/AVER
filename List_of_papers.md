@@ -24,10 +24,10 @@
 | 22 | [Video-Based Emotion Recognition using Face Frontalization and Deep Spatiotemporal Feature](https://proxy.library.spbu.ru:2281/document/8470384) |  | |  |  |
 | 23 | [Speech Emotion Recognition Adapted to Multimodal Semantic Repositories](https://proxy.library.spbu.ru:2281/document/8501881) |  | |  |  |
 | 24 | [Leveraging recent advances in deep learning for audio-Visual emotion recognition](https://proxy.library.spbu.ru:2068/science/article/pii/S0167865521000878) |  | |  |  |
-| 25 |  |  | |  |  |
-| 26 |  |  | |  |  |
-| 27 |  |  | |  |  |
-| 28 |  |  | |  |  |
+| 25 | [A review of affective computing: From unimodal analysis to multimodal fusion](https://www.sciencedirect.com/science/article/abs/pii/S1566253517300738) | HUMAINE/Belfast/SEMAINE/IEMOCAP/eNTERFACE/ICT-MMMO/MOUD/YouTube dataset |No specific preprocessing method | No specific algorithm | Carried out a first of its kind review of the fundamental stages of a multimodal affect recognition framework |
+| 26 | [Deep Learning for Human Affect Recognition: Insights and New Developments](https://proxy.library.spbu.ru:2281/document/8598999) | ![捕获1](https://user-images.githubusercontent.com/56142279/154798097-74309c20-5ec3-4c72-aea9-ee5586166ccf.PNG) | No specific preprocessing method| DNN/CNN/RNN/ | find that deep learning is used for learning of (i) spatial feature representations, (ii) temporal feature representations, and (iii) joint feature representations for multimodal sensor data. |
+| 27 | [A Survey of Affect Recognition Methods: Audio, Visual, and Spontaneous Expressions](https://proxy.library.spbu.ru:2281/document/4468714) | ![捕获2](https://user-images.githubusercontent.com/56142279/154798437-30bc70c6-5934-458b-89af-ea190bd49640.PNG) ![图片](https://user-images.githubusercontent.com/56142279/154798454-e68d070d-c414-4ac6-8193-2f5f26d8a637.png) |No specific preprocessing method | No specific algorithm |  This paper focused on surveying and discussing these novel approaches to the machine analysis of human affect and on summarizing the issues that have not received sufficient attention but are crucial for advancing the machine interpretation of human behavior in naturalistic contexts. |
+| 28 | [Multimodal Machine Learning: A Survey and Taxonomy](https://proxy.library.spbu.ru:2281/document/8269806) | No specific dataset |No specific preprocessing method | No specific algorithm,introduced some Multimodal fusion methods, and multimodal alignment methods, etc. | This paper surveyed recent advances in multimodal machine learning |
 | 29 |  |  | |  |  |
 | 30 |  |  | |  |  |
 
